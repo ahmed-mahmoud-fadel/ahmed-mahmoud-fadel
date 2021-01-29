@@ -20,7 +20,7 @@
 
 <br> <p align="center">Everything here is Open Source!<br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ahmed-mahmoud-fadel/)
-[![E-Mail](https://img.shields.io/badge/email-2a8?style=flat-square&logo=gmail&logoColor=white)](ahmed.mahmoud.fadel@gmail.com)
+[![E-Mail](https://img.shields.io/badge/Gmail-2a8?style=flat-square&logo=gmail&logoColor=white)](https://ahmed.mahmoud.fadel@gmail.com)
 [![Visits](https://badges.pufler.dev/visits/ahmed-mahmoud-fadel/ahmed-mahmoud-fadel/?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/ahmed-mahmoud-fadel/)
 
 </p>
