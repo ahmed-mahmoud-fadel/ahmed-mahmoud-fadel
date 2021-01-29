@@ -28,7 +28,7 @@
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=ahmed-mahmoud-fadel&show_icons=true&theme=default&locale=en" alt="ahmed-mahmoud-fadel" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-mahmoud-fadel&show_icons=true&theme=default&locale=en&layout=compact" alt="ahmed-mahmoud-fadel" /></p>
   </td>
   <td width = "50%">
   <br>
