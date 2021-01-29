@@ -20,7 +20,7 @@
 
 <br> <p align="center">Everything here is Open Source!<br><br>
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/ahmed-mahmoud-fadel/)
-[![E-Mail](https://img.shields.io/badge/Gmail-2a8?style=flat-square&logo=gmail&logoColor=white)](https://ahmed.mahmoud.fadel@gmail.com)
+[![E-Mail](https://img.shields.io/badge/Gmail-2a8?style=flat-square&logo=gmail&logoColor=white)](mailto://ahmed.mahmoud.fadel@gmail.com)
 [![Visits](https://badges.pufler.dev/visits/ahmed-mahmoud-fadel/ahmed-mahmoud-fadel/?logo=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square)](https://github.com/ahmed-mahmoud-fadel/)
 
 </p>
@@ -28,11 +28,11 @@
   <tr>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=malbolgee&show_icons=true&theme=onedark&locale=en&layout=compact" alt="malbolgee" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-mahmoud-fadel&show_icons=true&theme=onedark&locale=en&layout=compact" alt="ahmed-mahmoud-fadel" /></p>
   </td>
   <td width = "50%">
   <br>
-  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=malbolgee&show_icons=true&theme=onedark&locale=en" alt="malbolgee" /></p>
+  <p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=ahmed-mahmoud-fadel&show_icons=true&theme=onedark&locale=en" alt="ahmed-mahmoud-fadel" /></p>
   </td>
   <tr>
   <td colspan = 2><br><p align = "center"> I’m currently learning </p></td>
@@ -40,7 +40,9 @@
   <td colspan=2 width ="50%">
   <br>
   <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
   </p>
   </table>
 
