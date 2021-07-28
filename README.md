@@ -46,6 +46,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
     <img src="https://www.pngplay.com/wp-content/uploads/5/Oracle-Logo-Transparent-Images.png" alt="NodeJS" width="40" height="40"/>
     <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="NodeJS" width="40" height="40"/>
+    <img src="https://github.com/angular/angular/blob/master/aio/src/assets/images/logos/angular/angular.png" alt="NodeJS" width="40" height="40"/>
+    <img src="https://github.com/campusMVP/dotnetLogoPack/blob/main/.samples/asp-dotnet.png" alt="NodeJS" width="40" height="40"/>
+    <img src="https://github.com/campusMVP/dotnetLogoPack/blob/main/.samples/dotNET-EF.png" alt="NodeJS" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="NodeJS" width="40" height="40"/>
   </p>
   </table>
 
