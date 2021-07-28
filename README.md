@@ -45,6 +45,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
     <img src="https://www.pngplay.com/wp-content/uploads/5/Oracle-Logo-Transparent-Images.png" alt="NodeJS" width="40" height="40"/>
+    <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png" alt="NodeJS" width="40" height="40"/>
   </p>
   </table>
 
